@@ -1,23 +1,28 @@
 # designsystem-svelte
 
 Everything you need to build a Svelte Design System project.
-Hola
+
 ## Powered by: 
 - [`SvelteKit`](https://kit.svelte.dev/)
 - [`Storybook`](https://storybook.js.org/)
 - [`TailwindCSS`](https://tailwindcss.com/)
 - [`DaisyUI`](https://daisyui.com/)
 
-## Creating a project
+## Install
 
-If you're seeing this, you've probably already done this step. Congrats!
-
+First of all, clone the repo: 
 ```bash
-# create a new project in the current directory
-npm init svelte
+# clone from github repo
+git clone https://github.com/hitaboy/designsystem-svelte.git
+```
 
-# create a new project in my-app
-npm init svelte my-app
+Then, install npm dependencies:
+```bash
+# install dependencies with yarn
+yarn 
+
+# install dependencies with npm
+npm 
 ```
 
 ## Developing
