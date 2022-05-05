@@ -1,6 +1,12 @@
-# create-svelte
+# designsystem-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Everything you need to build a Svelte Design System project.
+Hola
+## Powered by: 
+- [`SvelteKit`](https://kit.svelte.dev/)
+- [`Storybook`](https://storybook.js.org/)
+- [`TailwindCSS`](https://tailwindcss.com/)
+- [`DaisyUI`](https://daisyui.com/)
 
 ## Creating a project
 
