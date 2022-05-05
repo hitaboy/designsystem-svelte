@@ -1,4 +1,5 @@
 # designsystem-svelte
+![image](https://user-images.githubusercontent.com/1875806/166934609-9334a6bf-60e0-4e88-8008-55b2169f1ce6.png)
 
 Everything you need to build a Svelte Design System project.
 
